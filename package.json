@@ -22,7 +22,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "my-project",
+    "productName": "sparrow",
     "appId": "org.simulatedgreg.electron-vue",
     "directories": {
       "output": "build"
